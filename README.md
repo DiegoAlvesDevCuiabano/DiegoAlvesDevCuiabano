@@ -11,9 +11,16 @@ Sou desenvolvedor Java e docente do Centro Universitário SENAI Mato Grosso. Tra
 
 ## Livro em escrita
 
-### Desconstruindo um Banco de Dados
-
-Uma leitura sobre o caminho de uma consulta: do objeto Java ao bloco de dados e de volta. O manuscrito está em desenvolvimento, com cinco capítulos escritos de um plano de 14. A versão completa ainda não foi publicada.
+<table>
+  <tr>
+    <td width="180"><img src="./assets/book-cover-study.svg" alt="Estudo de capa de Desconstruindo um Banco de Dados" width="160"></td>
+    <td>
+      <h3>Desconstruindo um Banco de Dados</h3>
+      <p>Uma leitura sobre o caminho de uma consulta: do objeto Java ao bloco de dados e de volta.</p>
+      <p><strong>Em desenvolvimento.</strong> A imagem é um estudo de capa. O manuscrito e o repositório permanecem privados até a versão completa estar pronta.</p>
+    </td>
+  </tr>
+</table>
 
 ## Projetos selecionados
 
