@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 1188" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Estudo de capa de Desconstruindo um banco de dados</title>
+  <desc id="descricao">Capa azul-marinho com título branco, acento laranja e uma linha que representa a ida de uma consulta e sua volta como objetos.</desc>
+  <defs>
+    <style>
+      .sans { font-family: Arial, Helvetica, sans-serif; }
+      .serif { font-family: Georgia, "Times New Roman", serif; }
+      .caps { letter-spacing: 5px; text-transform: uppercase; }
+    </style>
+    <marker id="seta-laranja" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L8,3 z" fill="#f47b2a"/>
+    </marker>
+    <marker id="seta-clara" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L8,3 z" fill="#a9c0d8"/>
+    </marker>
+  </defs>
+
+  <rect width="840" height="1188" fill="#07275f"/>
+
+  <text x="88" y="104" class="sans caps" fill="#f47b2a" font-size="16" font-weight="700">VOLUME I · FUNDAMENTOS</text>
+
+  <text x="86" y="234" class="sans" fill="#fffdf7" font-size="72" font-weight="800" letter-spacing="-2">Desconstruindo</text>
+  <text x="86" y="315" class="sans" fill="#fffdf7" font-size="72" font-weight="800" letter-spacing="-2">um banco</text>
+  <text x="86" y="396" class="sans" fill="#fffdf7" font-size="72" font-weight="800" letter-spacing="-2">de dados</text>
+  <rect x="88" y="435" width="138" height="10" fill="#f47b2a"/>
+
+  <text x="88" y="500" class="serif" fill="#d9e4ef" font-size="24">A jornada de uma consulta, do objeto Java</text>
+  <text x="88" y="536" class="serif" fill="#d9e4ef" font-size="24">ao bloco de dados — e de volta.</text>
+
+  <g aria-label="Mapa simplificado da jornada da consulta">
+    <text x="88" y="662" class="sans caps" fill="#8fa9c3" font-size="12" font-weight="700">UMA CONSULTA · CINCO ATOS · QUATORZE FRONTEIRAS</text>
+
+    <path d="M98 764 C240 695 368 700 420 764 C472 828 600 833 742 764" fill="none" stroke="#f47b2a" stroke-width="4" stroke-dasharray="10 12" marker-end="url(#seta-laranja)"/>
+    <path d="M98 764 H742" fill="none" stroke="#7694b5" stroke-width="3" marker-end="url(#seta-clara)"/>
+
+    <g fill="#07275f" stroke="#7694b5" stroke-width="3">
+      <circle cx="98" cy="764" r="20"/>
+      <circle cx="250" cy="764" r="20"/>
+      <circle cx="420" cy="764" r="20"/>
+      <circle cx="590" cy="764" r="20"/>
+      <circle cx="742" cy="764" r="20"/>
+    </g>
+    <circle cx="420" cy="764" r="33" fill="#f47b2a"/>
+    <rect x="86" y="752" width="24" height="24" rx="3" fill="#fffdf7"/>
+    <rect x="730" y="752" width="24" height="24" rx="12" fill="#fffdf7"/>
+
+    <g class="sans" fill="#d9e4ef" font-size="14" text-anchor="middle">
+      <text x="98" y="817">OBJETO</text>
+      <text x="250" y="817">PONTE</text>
+      <text x="420" y="817">DECISÃO</text>
+      <text x="590" y="817">EXECUÇÃO</text>
+      <text x="742" y="817">VOLTA</text>
+    </g>
+  </g>
+
+  <line x1="88" y1="1017" x2="752" y2="1017" stroke="#4e7198" stroke-width="2"/>
+  <text x="88" y="1065" class="sans caps" fill="#fffdf7" font-size="18" font-weight="700">DIEGO ALVES</text>
+  <text x="88" y="1101" class="sans" fill="#b7c9dc" font-size="16">Java · Persistência · Banco de Dados</text>
+</svg>
