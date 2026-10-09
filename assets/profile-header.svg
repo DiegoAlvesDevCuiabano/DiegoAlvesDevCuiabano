@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Diego Alves — desenvolvimento Java e docência</title>
+  <desc id="desc">Cabeçalho em tons de café com nome Diego Alves, áreas de atuação e uma xícara à direita.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#171310"/><stop offset="1" stop-color="#332016"/></linearGradient>
+    <linearGradient id="copper" x2="1" y2="1"><stop stop-color="#f2bd8e"/><stop offset="1" stop-color="#b87950"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b87950" stroke-opacity=".09"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <path d="M58 64h74" stroke="url(#copper)" stroke-width="5" stroke-linecap="round"/>
+  <text x="58" y="113" fill="#dfaa7c" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="3">DESENVOLVEDOR JAVA · DOCENTE</text>
+  <text x="55" y="185" fill="#f5eee7" font-family="Georgia,serif" font-size="64" letter-spacing="-2">Diego Alves</text>
+  <text x="58" y="233" fill="#d4bca9" font-family="Arial,sans-serif" font-size="24">Sistemas legados · persistência · ensino</text>
+  <path d="M795 52v196" stroke="#a16a47" stroke-opacity=".4" stroke-width="2"/>
+  <g fill="none" stroke="#b87950" stroke-opacity=".25"><circle cx="1016" cy="149" r="105" stroke-width="3"/><circle cx="1016" cy="149" r="83" stroke-width="13"/></g>
+  <g transform="translate(938 57)" fill="none" stroke="url(#copper)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M43 5c-18 17 18 25 0 43M78 5c-18 17 18 25 0 43M113 5c-18 17 18 25 0 43"/>
+    <path d="M18 78h119v53a45 45 0 0 1-45 45H63a45 45 0 0 1-45-45V78ZM137 91h16a19 19 0 0 1 0 38h-16M10 187h160"/>
+  </g>
+</svg>
