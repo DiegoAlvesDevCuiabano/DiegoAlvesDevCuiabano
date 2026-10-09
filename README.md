@@ -1,46 +1,21 @@
-<div align="center">
+# Diego Alves
 
-# 👋 Opa, eu sou o Diego
+Desenvolvedor Java e docente do Centro Universitário SENAI Mato Grosso. Trabalho na evolução de aplicações grandes e legadas. Aqui reúno projetos públicos que mostram como investigo problemas, testo alternativas e explico decisões técnicas.
 
-Sou desenvolvedor backend Java.
+## Projetos selecionados
 
-Trabalho com sistemas reais em produção, principalmente **legados**, onde o desafio não é reinventar tudo, e sim **evoluir com segurança**, respeitando contexto, regra de negócio e impacto.
+| Projeto | O que mostra | Estado |
+|---|---|---|
+| [Delibera](https://github.com/DiegoAlvesDevCuiabano/Delibera) | Sistema de gestão de solicitações acadêmicas em Java e Spring Boot | Desenvolvimento; ainda não pronto para uso com dados reais |
+| [Demonstração do Delibera](https://diegoalvesdevcuiabano.github.io/Delibera-Demo/) | Fluxo visual do produto | Protótipo demonstrativo |
+| [CPA Demo](https://diegoalvesdevcuiabano.github.io/CPA-Demo/) | Interface de uma proposta para avaliação institucional | Demonstração, sem backend público nesta conta |
+| [DecafDB](https://github.com/DiegoAlvesDevCuiabano/DecafDB) | Motor de banco de dados didático em Java | Experimento em desenvolvimento |
+| [Laboratório de persistência](https://github.com/DiegoAlvesDevCuiabano/data-persistence-engineering-lab) | Experimentos sobre acesso a dados e decisões entre banco, ORM e aplicação | Laboratório técnico |
 
-</div>
+## Em escrita
 
----
+*Desconstruindo um Banco de Dados* é um livro digital sobre o caminho de uma consulta, do objeto Java ao bloco de dados e de volta. O manuscrito ainda está em desenvolvimento; não há versão pública completa.
 
-## 📌 Sobre este GitHub
+## Contato
 
-Este GitHub ainda está em crescimento, mas estou usando ele como base para reunir:
-
-- 🧪 Labs técnicos e práticas de backend  
-- 📚 Estudos organizados de Java  
-- 🚀 Alguns sistemas que construí por completo  
-
----
-
-## 🛠️ Stack
-
-Java e seu ecossistema completo:  
-de **Struts a Spring**,  
-de **JDBC a JPA**,  
-de **MySQL a Oracle**.
-
----
-
-<div align="center">
-
-📌 Labs e projetos completos serão publicados aqui continuamente.
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Contato
-
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/diego-h-alves-dev">diego-h-alves-dev</a>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/diego-h-alves-dev/)
